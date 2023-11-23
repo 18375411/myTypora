@@ -1,0 +1,2 @@
+# myTypora
+typora images
